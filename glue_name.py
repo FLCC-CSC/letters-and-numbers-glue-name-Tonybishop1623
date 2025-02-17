@@ -1,7 +1,7 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
+# NAME: Anthony Antoine 
+# DATE: 2/12/2025
 # BRIEF DESCRIPTION:  
 
 
@@ -17,7 +17,11 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
-    
+   fist_name input('bart :')
+last_name input('simpson :')
+
+print(f'Hi, {first_name} {last_name}')
+   
     
     
     
